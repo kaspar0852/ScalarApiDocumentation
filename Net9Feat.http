@@ -1,0 +1,6 @@
+@Net9Feat_HostAddress = http://localhost:5102
+
+GET {{Net9Feat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
